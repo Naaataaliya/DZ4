@@ -1,0 +1,16 @@
+[{
+  "name":"Иван",
+  "lastname":"Иванов",
+  "address":"г.Москва",
+  "email":"null@gmail.com"
+}, {
+  "name":"Петр",
+  "lastname":"Петров",
+  "address":"г.Санкт Петербург",
+  "email":"null@mail.ru"
+}, {
+  "name":"Сидор",
+  "lastname":"Сидоров",
+  "address":"г.Воронеж",
+  "email":"null@bk.ru"
+}]
